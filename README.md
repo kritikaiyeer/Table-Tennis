@@ -6,9 +6,6 @@ Table tennis, also known as ping pong, is a game in which two or four players hi
 * Javascript
 
 
-## Acknowledgments
-
-* Chris DeLeon
 
 
 
